@@ -1,0 +1,80 @@
+
+body{
+    background-color:bisque;
+}
+
+
+header{
+    text-align:center;
+    background-color: slategrey;
+    color:lightsalmon;
+    font-weight:bold;
+    font-size: 55px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height:67px;
+    width:100%;
+    position:fixed;
+    margin:0%;
+    font-style:italic;
+    text-decoration: underline;
+}
+
+nav{
+    background-color: slategrey;
+    color:darksalmon;
+    width:100%;
+    font-size: 25px;
+    margin:0%;
+    text-align:center;
+    text-decoration:none;
+    position:relative fixed;
+    
+
+}
+
+.shop:link{
+    color:bisque;
+}
+
+.shop:visited{
+    color:bisque;
+}
+.shop:hover{
+    color:darksalmon;
+}
+    
+
+h1{
+    padding-top: 100px;
+    color:dimgrey !important;
+}
+
+h1, p{
+    text-indent: 5px;
+    font-size: xx-large;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkgray;
+}
+
+.lady1{
+    border:3px solid darkgray;
+    margin-left: 5px;
+    margin-right: 10px;
+    height:auto;
+    width:auto;
+    
+}
+
+.lady2{
+    border:3px solid darkgray;
+    margin-right: 5px;
+    margin-left: 10px;
+    height: auto;
+    width: auto;
+}
+
+.pics{
+    margin-left: 300px;
+}
+

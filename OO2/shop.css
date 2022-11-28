@@ -1,0 +1,78 @@
+body{
+    background-color:bisque;
+    
+}
+
+
+header{
+    text-align:center;
+    background-color: slategrey;
+    color:lightsalmon;
+    font-weight:bold;
+    font-size: 55px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height:67px;
+    width:100%;
+    margin:0%;
+    font-style:italic;
+    text-decoration: underline;
+}
+
+nav{
+    background-color: slategrey;
+    color:darksalmon;
+    width:100%;
+    font-size: 25px;
+    margin:0%;
+    text-align:center;
+    text-decoration:none;
+    position:relative 
+}
+
+.home:link{
+    color:bisque;
+}
+
+.home:visited{
+    color:bisque;
+}
+.home:hover{
+    color:darksalmon;
+}
+
+h1{
+    padding-top: 30px;
+}
+
+h3{
+    margin-top: 5px;
+}
+
+h1, h3{
+    color:dimgray;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.stores{
+    background-color: slategrey;
+    color:darksalmon;
+    width:100%;
+    font-size: 25px;
+    margin:0%;
+    text-align:center;
+    text-decoration:none;
+}
+
+a:link{
+    color:bisque;
+}
+
+a:visited{
+    color:bisque;
+}
+a:hover{
+    color:darksalmon;
+}
